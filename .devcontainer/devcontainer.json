@@ -1,0 +1,12 @@
+
+{
+  "name": "Himanshu Codespace",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.fontSize": 16,
+        "editor.formatOnSave": true
+      }
+    }
+  }
+}
