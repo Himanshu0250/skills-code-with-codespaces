@@ -1,12 +1,4 @@
-
 {
-  "name": "Himanshu Codespace",
-  "customizations": {
-    "vscode": {
-      "settings": {
-        "editor.fontSize": 16,
-        "editor.formatOnSave": true
-      }
-    }
-  }
+  "name": "Basic Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
